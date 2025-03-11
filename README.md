@@ -21,11 +21,11 @@ Lumina Tech faces challenges in maintaining equitable compensation practices, wi
 ## Key Findings & Recommendations
 - Gender Pay Gap by Department
   Pay disparities vary, with Engineering showing a 7.7% gap favoring men, while Accounting has a -12.1% gap favoring women.
-   Root Causes: Industry male dominance, unconscious bias, salary negotiation differences.
-  Recommendations:
-  - Conduct role-level analysis within high-gap departments.
-  - Provide mentorship and leadership development programs for women.
-  - Ensure transparent pay structures and unbiased promotion processes.
+   - Root Causes: Industry male dominance, unconscious bias, salary negotiation differences.
+  - Recommendations:
+    - Conduct role-level analysis within high-gap departments.
+    - Provide mentorship and leadership development programs for women.
+    - Ensure transparent pay structures and unbiased promotion processes.
 
 - Gender Pay Gap by Ethnicity
     Asian & Caucasian men earn more (5.9% & 3.8% gap, respectively), while Black women earn significantly more than Black men (-27%).
